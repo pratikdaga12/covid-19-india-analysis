@@ -11,7 +11,9 @@ You can find the installation documentation for the Jupyter platform, on ReadThe
 
 For a local installation, make sure you have pip installed and run:
 
+```
 $ pip install notebook
+```
 
 
 

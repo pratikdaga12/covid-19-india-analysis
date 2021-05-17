@@ -57,8 +57,6 @@ The blog can be accessed here- Medium
 
 Licensing and Acknowledgements
 
-All the data used in this project are taken from-
-
-Kaggle
+All the data used in this project are taken from - Kaggle
 
 Feel free to use the code in the Jupyter notebook as you like.
